@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <readme>
+    <en>1f29fbbea4b359fca540ea5ee7a3e5d6fe15296c737eb797099f660377bd15ad</en>
+    <ru>8ad7af1df7f1c1cbfa3d057894cf31d4c4dd0104a2c3c5c5506c6575597b5e98</ru>
+  </readme>
+  <license name="cc0">b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1"/>
+      <note number="2" values="1"/>
+      <note number="3" values="1"/>
+      <note number="4" values="1"/>
+      <note number="5" values="1"/>
+      <note number="6" values="1"/>
+      <note number="7" values="1"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1"/>
+      <note number="2" values="1"/>
+      <note number="3" values="1"/>
+      <note number="4" values="1"/>
+      <note number="5" values="1"/>
+      <note number="6" values="1"/>
+      <note number="7" values="1"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1"/>
+      <note number="2" values="1"/>
+      <note number="3" values="1"/>
+      <note number="4" values="1"/>
+      <note number="5" values="1"/>
+      <note number="6" values="1"/>
+    </notes>
+  </exercise>
+</level>
